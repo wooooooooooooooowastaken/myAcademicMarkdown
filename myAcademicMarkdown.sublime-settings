@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/User/myAcademicMarkdown.tmTheme",
+	"draw_centered": false,
+	"extensions":
+	[
+		"md"
+	],
+	"mde.auto_increment_ordered_list_number": true,
+	"translate_tabs_to_spaces": false,
+	"word_wrap": true,
+	"wrap_width": 0
+}
